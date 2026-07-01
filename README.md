@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/Layer-6/termux-beautyy.git
+git clone https://github.com/Layer-6/termux-beauty.git
 cd termux-beauty
 chmod +x termux-beauty.sh
 ./termux-beauty.sh
