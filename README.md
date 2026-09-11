@@ -33,4 +33,4 @@ ________________________________________
 # The banner logo and your extra text can also be colored independently using a smaller palette (Black, Gray, Red, Green, Purple for the logo; plus Cyan and White for text).
 
 
-# By t.me/Red_Rooted_Ghost
+# By https://t.me/RedRootedGhosT
